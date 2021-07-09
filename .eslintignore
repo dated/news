@@ -1,0 +1,10 @@
+/__snapshots__/
+/__tests__/unit/coverage/
+/*.js
+/build/
+/config/
+/distribution/
+/docs/
+/prisma/
+/node_modules/**
+env.json
